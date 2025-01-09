@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Aasurani Vijay Saude.
-- 👀 I’m interested in ...Making Interactive Dashboards using Power BI.
+- 👀 I’m interested in...Making Interactive Dashboards using Power BI, Data Analysis,
+Machine learning. 
 - 🌱 I’m currently learning "Msc.Data Analytics"
 - 💞️ I’m looking to collaborate on Analytical projects or with other people passionate about data.
 - 📫 How to reach me - @AashuSaudegithub
